@@ -8,6 +8,7 @@ package com.lukemi.web;
  **/
 public class WebApp {
     public static void main(String[] args) {
-        System.out.println("开启app");
+        System.out.println("" +
+                "");
     }
 }
